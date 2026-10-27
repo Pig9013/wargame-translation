@@ -1,3 +1,5 @@
+**中文** · [English](README.en.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [Русский](README.ru.md)
+
 # 兵棋规则书中译 · 工作流与成品
 
 > **逐字逐句、可以反向查规**的兵棋（board wargame）规则书英译中工作流，以及 13 部已交付成品。
